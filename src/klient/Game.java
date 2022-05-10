@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * Główna klasa gry z funkcją main
- * @author Paweł Dyrda i Aleksander Zemła
+ * @author Paweł Dyrda
  * @version 1.0.0
  */
 public class Game extends JFrame {
